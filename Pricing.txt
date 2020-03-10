@@ -1,0 +1,24 @@
+Weekdays|2D|Cathay|Adult|4.50
+Weekdays|2D|Cathay|Student|7.00
+Weekdays|2D|Cathay|Senior Citizen|4.00
+Weekends|2D|Cathay|Adult|11.00
+Weekends|2D|Cathay|Student|11.00
+Weekends|2D|Cathay|Senior Citizen|11.00
+Weekdays|3D|Cathay|Adult|11.00
+Weekdays|3D|Cathay|Student|9.00
+Weekdays|3D|Cathay|Senior Citizen|11.00
+Weekends|3D|Cathay|Adult|15.00
+Weekends|3D|Cathay|Student|15.00
+Weekends|3D|Cathay|Senior Citizen|15.00
+Weekdays|2D|Platinum|Adult|9.50
+Weekdays|2D|Platinum|Student|8.00
+Weekdays|2D|Platinum|Senior Citizen|5.00
+Weekends|2D|Platinum|Adult|12.00
+Weekends|2D|Platinum|Student|12.00
+Weekends|2D|Platinum|Senior Citizen|12.00
+Weekdays|3D|Platinum|Adult|12.50
+Weekdays|3D|Platinum|Student|10.00
+Weekdays|3D|Platinum|Senior Citizen|11.00
+Weekends|3D|Platinum|Adult|16.00
+Weekends|3D|Platinum|Student|16.00
+Weekends|3D|Platinum|Senior Citizen|16.50

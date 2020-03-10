@@ -1,0 +1,62 @@
+17|11|Sunday|Weekend|Spiderman|2D|12.30pm|1|Normal|Showing|PG13|Jurong Point
+17|11|Sunday|Weekend|Frozen|2D|3.30pm|1|Normal|Not Showing|PG13|Vivo City
+17|11|Sunday|Weekend|Joker|3D|6.30pm|1|Normal|Showing|NC16|Bishan
+17|11|Sunday|Weekend|IT 2|2D|9.30pm|1|Normal|Showing|M18|Jurong Point
+17|11|Sunday|Weekend|The Avengers|2D|1.00pm|2|Normal|Showing|PG13|Vivo City
+17|11|Sunday|Weekend|Finding Nemo|2D|4.00pm|2|Normal|Showing|PG13|Bishan
+17|11|Sunday|Weekend|Frozen|2D|7.00pm|2|Normal|Not Showing|PG13|Jurong Point
+17|11|Sunday|Weekend|Spiderman|2D|10.00pm|2|Normal|Showing|PG13|Vivo City
+17|11|Sunday|Weekend|IT 2|2D|12.45pm|3|Normal|Showing|M18|Bishan
+17|11|Sunday|Weekend|Spiderman|2D|3.45pm|3|Normal|Showing|PG13|Jurong Point
+17|11|Sunday|Weekend|The Avengers|3D|6.45pm|3|Normal|Showing|PG13|Vivo City
+17|11|Sunday|Weekend|Joker|3D|6.45pm|3|Normal|Showing|NC16|Bishan
+17|11|Sunday|Weekend|Frozen|2D|12.15pm|4|Normal|Not Showing|PG13|Jurong Point
+17|11|Sunday|Weekend|Joker|2D|3.15pm|4|Normal|Showing|NC16|Vivo City
+17|11|Sunday|Weekend|Finding Nemo|2D|6.15pm|4|Normal|Showing|PG13|Bishan
+17|11|Sunday|Weekend|The Avengers|2D|9.15pm|4|Normal|Showing|PG13|Jurong Point
+17|11|Sunday|Weekend|Joker|2D|12.00pm|5|Platinum|Showing|NC16|Vivo City
+17|11|Sunday|Weekend|The Avengers|2D|3.00pm|5|Platinum|Showing|PG13|Bishan
+17|11|Sunday|Weekend|Spiderman|2D|6.00pm|5|Platinum|Showing|PG13|Jurong Point
+17|11|Sunday|Weekend|IT 2|2D|9.00pm|5|Platinum|Showing|M18|Vivo City
+18|11|Monday|Weekday|The Avengers|2D|12.30pm|1|Normal|Showing|PG13|Bishan
+18|11|Monday|Weekday|Finding Nemo|2D|3.30pm|1|Normal|Showing|PG13|Jurong Point
+18|11|Monday|Weekday|Frozen|2D|6.30pm|1|Normal|Not Showing|PG13|Vivo City
+18|11|Monday|Weekday|Spiderman|2D|9.30pm|1|Normal|Showing|PG13|Bishan
+18|11|Monday|Weekday|IT 2|2D|1.00pm|2|Normal|Showing|M18|Jurong Point
+18|11|Monday|Weekday|Spiderman|2D|4.00pm|2|Normal|Showing|PG13|Vivo City
+18|11|Monday|Weekday|The Avengers|3D|7.00pm|2|Normal|Showing|PG13|Bishan
+18|11|Monday|Weekday|Joker|3D|10.00pm|2|Normal|Showing|NC16|Jurong Point
+18|11|Monday|Weekday|Frozen|2D|12.45pm|3|Normal|Not Showing|PG13|Vivo City
+18|11|Monday|Weekday|Joker|2D|3.45pm|3|Normal|Showing|NC16|Bishan
+18|11|Monday|Weekday|Finding Nemo|2D|6.45pm|3|Normal|Showing|PG13|Jurong Point
+18|11|Monday|Weekday|The Avengers|2D|9.45pm|3|Normal|Showing|PG13|Vivo City
+18|11|Monday|Weekday|Spiderman|2D|12.15pm|4|Normal|Showing|PG13|Bishan
+18|11|Monday|Weekday|Frozen|2D|3.15pm|4|Normal|Not Showing|PG13|Jurong Point
+18|11|Monday|Weekday|Joker|2D|6.15pm|4|Normal|Showing|NC16|Bishan
+18|11|Monday|Weekday|IT 2|2D|9.15pm|4|Normal|Showing|M18|Vivo City
+18|11|Monday|Weekday|The Avengers|2D|12.00pm|5|Platinum|Showing|PG13|Bishan
+18|11|Monday|Weekday|Spiderman|2D|3.00pm|5|Platinum|Showing|PG13|Jurong Point
+18|11|Monday|Weekday|IT 2|2D|6.00pm|5|Platinum|Showing|M18|Bishan
+18|11|Monday|Weekday|Joker|2D|9.00pm|5|Platinum|Showing|NC16|Vivo City
+19|11|Tuesday|Weekday|IT 2|2D|12.30pm|1|Normal|Showing|M18|Jurong Point
+19|11|Tuesday|Weekday|Spiderman|2D|3.30pm|1|Normal|Showing|PG13|Bishan
+19|11|Tuesday|Weekday|The Avengers|3D|6.30pm|1|Normal|Showing|PG13|Vivo City
+19|11|Tuesday|Weekday|Joker|3D|9.30pm|1|Normal|Showing|NC16|Bishan
+19|11|Tuesday|Weekday|Frozen|2D|1.00pm|2|Normal|Not Showing|PG13|Bishan
+19|11|Tuesday|Weekday|Joker|2D|3.00pm|2|Normal|Showing|NC16|Bishan
+19|11|Tuesday|Weekday|Finding Nemo|2D|6.00pm|2|Normal|Showing|PG13|Bishan
+19|11|Tuesday|Weekday|The Avengers|2D|9.00pm|2|Normal|Showing|PG13|Vivo City
+19|11|Tuesday|Weekday|Spiderman|2D|12.45pm|3|Normal|Showing|PG13|Jurong Point
+19|11|Tuesday|Weekday|Frozen|2D|3.45pm|3|Normal|Not Showing|PG13|Vivo City
+19|11|Tuesday|Weekday|Joker|2D|6.45pm|3|Normal|Showing|NC16|Vivo City
+19|11|Tuesday|Weekday|IT 2|2D|9.45pm|3|Normal|Showing|M18|Vivo City
+19|11|Tuesday|Weekday|The Avengers|2D|12.15pm|4|Normal|Showing|PG13|Bishan
+19|11|Tuesday|Weekday|Finding Nemo|2D|3.15pm|4|Normal|Showing|PG13|Bishan
+19|11|Tuesday|Weekday|Frozen|2D|6.15pm|4|Normal|Not Showing|PG13|Bishan
+19|11|Tuesday|Weekday|Spiderman|2D|9.15pm|4|Normal|Showing|PG13|Bishan
+19|11|Tuesday|Weekday|Spiderman|2D|12.00pm|5|Platinum|Showing|PG13|Jurong Point
+19|11|Tuesday|Weekday|IT 2|2D|3.00pm|5|Platinum|Showing|M18|Jurong Point
+19|11|Tuesday|Weekday|Joker|2D|6.00pm|5|Platinum|Showing|NC16|Jurong Point
+19|11|Tuesday|Weekday|The Avengers|2D|9.00pm|5|Platinum|Showing|PG13|Bishan
+13|11|Monday|Weekday|The Avengers|2D|2.30pm|3|Platinum|Showing|PG13|Bishan
+19|11|Tuesday|Weekday|Charlie's Angels|3D|7.00pm|6|Platinum|Showing|R21|Bishan
